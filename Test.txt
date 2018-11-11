@@ -1,2 +1,6 @@
 I'm testing how to checkout branch and commit it
+<<<<<<< HEAD
 hello world
+=======
+hello
+>>>>>>> slave1
